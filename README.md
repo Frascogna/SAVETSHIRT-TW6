@@ -24,7 +24,7 @@ Webstore with cart, there are filters for choose the brand that u most like.
 ## Server-Side:
 - Python 3.10
 - Flask 1.1
-- SQLite
+- SQLite 3.31
 
 # Software Used
 - Visualstudio Code
